@@ -9,3 +9,4 @@ def pyramid(rows):                  ##starpyramid but more accurate
             print("* ", end="")
         print()
 pyramid(10)
+print("Merry Christmas")
